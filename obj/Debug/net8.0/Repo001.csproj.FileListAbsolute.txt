@@ -1,0 +1,15 @@
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\bin\Debug\net8.0\Repo001.exe
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\bin\Debug\net8.0\Repo001.deps.json
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\bin\Debug\net8.0\Repo001.runtimeconfig.json
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\bin\Debug\net8.0\Repo001.dll
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\bin\Debug\net8.0\Repo001.pdb
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\Repo001.csproj.AssemblyReference.cache
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\Repo001.GeneratedMSBuildEditorConfig.editorconfig
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\Repo001.AssemblyInfoInputs.cache
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\Repo001.AssemblyInfo.cs
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\Repo001.csproj.CoreCompileInputs.cache
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\Repo001.dll
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\refint\Repo001.dll
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\Repo001.pdb
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\Repo001.genruntimeconfig.cache
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\ref\Repo001.dll
