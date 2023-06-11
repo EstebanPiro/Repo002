@@ -13,3 +13,4 @@ E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\refint\Repo001.dll
 E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\Repo001.pdb
 E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\Repo001.genruntimeconfig.cache
 E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\ref\Repo001.dll
+E:\0LEP\Desarrollo\RepositoriosGit\Repo001\obj\Debug\net8.0\Repo001.sourcelink.json
